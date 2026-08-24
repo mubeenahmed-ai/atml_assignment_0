@@ -4,8 +4,6 @@
 **Roll No:** 25280101  
 **Course:** EE-5102/CS-6304 — Advanced Topics in Machine Learning  
 **Assignment:** PA 0  
-**Repository:** [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)  
-**Report:** [`report/neurips_report.pdf`](report/neurips_report.pdf)
 
 ---
 
